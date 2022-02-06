@@ -1,0 +1,20 @@
+.odd-row {
+    background-color: rgb(231, 148, 162);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+.bold {
+    font-size: 24px;
+}
+
+#blueid {
+    color: blue;
+    font-size: 36px;
+}
+
+#greenid {
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
